@@ -11,5 +11,5 @@
 	"premium_iap_product_id": "org.telegram.telegramPremium.monthly",
 	"enable_siri": true,
 	"enable_icloud": false,
-	"sg_config": ""
+	"sg_config":
 }
